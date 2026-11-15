@@ -1,3 +1,5 @@
+<img width="446" height="394" alt="Clipboarder 2026 11 16" src="https://github.com/user-attachments/assets/88a5d2d5-0e7d-4f2d-9277-13711186d4f1" />
+
 # Hyper-V Maintenance Toolkit v2
 
 Run on a management machine (or any listed host) as a domain account that is
