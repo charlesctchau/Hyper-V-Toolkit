@@ -50,3 +50,7 @@ of a VM name to search. Picking a replica automatically resolves to its primary.
 
 This toolkit deletes VMs, disk files and replication relationships. Run it with
 -PreviewOnly first and test on non-production VMs. Use at your own risk.
+
+## License
+
+MIT - see LICENSE.
