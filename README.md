@@ -45,3 +45,8 @@ of a VM name to search. Picking a replica automatically resolves to its primary.
 - HVToolkit_Audit.csv - every step with operator, host, VM, result
 - Plans\*.json - the approved plan of each action
 - Pending\*.json - resets that stopped before replication was re-enabled (menu 8 finishes them)
+
+## Disclaimer
+
+This toolkit deletes VMs, disk files and replication relationships. Run it with
+-PreviewOnly first and test on non-production VMs. Use at your own risk.
